@@ -271,7 +271,7 @@ try:
     #   codigo_municipio    = row[3] - Cuarta  columna
     #   municipio           = row[4] - Quinta  columna
     #---------------------------------------------------------------------------------
-    archivo_fisico = 'colombia-dane-departamentos.csv'
+    archivo_fisico = 'Tarea-1/colombia-dane-departamentos.csv'
 
     # ---------------------------------------------------------------------------------
     # Recorrido/Lectura de los registros de la hoja de cálculo
