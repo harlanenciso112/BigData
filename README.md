@@ -1,4 +1,4 @@
-# Proyectos Grupo 2
+# Fundamentos de Big Data | Grupo 103 | ET0043
 
 Este repositorio contiene el desarrollo de las tareas de la asignatura **Fundamentos de Big Data G103** de la **Institución Universitaria Pascual Bravo**.  
 
