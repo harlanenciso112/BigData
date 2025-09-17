@@ -1,9 +1,9 @@
 # Fundamentos de Big Data | Grupo 103 | ET0043
 
-Este repositorio contiene el desarrollo de las tareas de la asignatura **Fundamentos de Big Data G103** de la **Institución Universitaria Pascual Bravo**.  
+Este repositorio contiene el desarrollo de las tareas del grupo 2 de la asignatura **Fundamentos de Big Data G103** de la **Institución Universitaria Pascual Bravo**.  
 
 ---
-
+# Grupo 2
 ## 👥 Integrantes del grupo
 - Harlan Santiago Enciso Riaño
 - Miguel Angel Rojas Pabon
