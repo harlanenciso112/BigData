@@ -1,0 +1,5 @@
+4.1. - Diseño de la estructura de la hoja de cálculo para almacenar lecturas del microcontrolador
+https://docs.google.com/spreadsheets/d/1j_NVSkwKCY2U1RW3bq2yiiq9HEjOiLsk7Vdpzaz7uSA/edit?usp=sharing
+
+4.2. – Poblamiento de la hoja de cálculo del microcontrolador
+https://docs.google.com/spreadsheets/d/1-vh_zGT9C-nYR2_o39RPmEUMH_AsIqYKFQcUq0rBSrI/edit?usp=sharing
